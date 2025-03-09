@@ -6,8 +6,7 @@
     "dev": "nodemon src/server.ts",
     "start": "node dist/server.js",
     "dist": "npx tsc",
-    "prepare": "husky",
-    "test": "echo \"No tests yet\" && exit 0"
+    "prepare": "husky"
   },
   "author": "amanshams",
   "license": "ISC",
